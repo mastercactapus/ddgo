@@ -1,7 +1,7 @@
 ddgo
 ====
 
-ddgo is a simple utility for copying disk images to flash drives.
+ddgo is a simple utility for copying data to block devices.
 
 Example:
 
